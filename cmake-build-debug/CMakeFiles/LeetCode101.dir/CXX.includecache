@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chenzheying/Documents/ClionProjects/LeetCode101/05Search/126_wordLadder.cpp
+string
+-
+vector
+-
+unordered_map
+-
+unordered_set
+-
+
+/Users/chenzheying/Documents/ClionProjects/LeetCode101/05Search/934_shortestBridge.cpp
+vector
+-
+queue
+-
+
+/Users/chenzheying/Documents/ClionProjects/LeetCode101/main.cpp
+iostream
+-
+05Search/126_wordLadder.cpp
+/Users/chenzheying/Documents/ClionProjects/LeetCode101/05Search/126_wordLadder.cpp
+

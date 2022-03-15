@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="LeetCode101"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/chenzheying/Documents/ClionProjects/LeetCode101/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/chenzheying/Documents/ClionProjects/LeetCode101/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/chenzheying/Documents/ClionProjects/LeetCode101/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/chenzheying/Documents/ClionProjects/LeetCode101/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/chenzheying/Documents/ClionProjects/LeetCode101/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/chenzheying/Documents/ClionProjects/LeetCode101/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/chenzheying/Documents/ClionProjects/LeetCode101/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/chenzheying/Documents/ClionProjects/LeetCode101/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/chenzheying/Documents/ClionProjects/LeetCode101/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/chenzheying/Documents/ClionProjects/LeetCode101/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/chenzheying/Documents/ClionProjects/LeetCode101/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/chenzheying/Documents/ClionProjects/LeetCode101/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/chenzheying/Documents/ClionProjects/LeetCode101/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/chenzheying/Documents/ClionProjects/LeetCode101/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/chenzheying/Documents/ClionProjects/LeetCode101/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LeetCode101">
+				<Option output="/Users/chenzheying/Documents/ClionProjects/LeetCode101/cmake-build-debug/LeetCode101" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/chenzheying/Documents/ClionProjects/LeetCode101/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/chenzheying/Documents/ClionProjects/LeetCode101/cmake-build-debug/Makefile&quot;  VERBOSE=1 LeetCode101"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/chenzheying/Documents/ClionProjects/LeetCode101/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/chenzheying/Documents/ClionProjects/LeetCode101/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/chenzheying/Documents/ClionProjects/LeetCode101/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LeetCode101/fast">
+				<Option output="/Users/chenzheying/Documents/ClionProjects/LeetCode101/cmake-build-debug/LeetCode101" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/chenzheying/Documents/ClionProjects/LeetCode101/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/chenzheying/Documents/ClionProjects/LeetCode101/cmake-build-debug/Makefile&quot;  VERBOSE=1 LeetCode101/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/chenzheying/Documents/ClionProjects/LeetCode101/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/chenzheying/Documents/ClionProjects/LeetCode101/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/chenzheying/Documents/ClionProjects/LeetCode101/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/01GREEDY/122_maxProfit.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/01GREEDY/135_candy.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/01GREEDY/435_eraseOverlapIntervals.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/01GREEDY/452_findMinArrowShots.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/01GREEDY/455_AssignCookies.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/01GREEDY/605_canPlaceFlowers.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/01GREEDY/763_partitionLabels.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/0215review.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/02DOUBLEPTR/142_detectCycle.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/02DOUBLEPTR/524_findLongestWord.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/02DOUBLEPTR/633_judgeSquareSum.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/02DOUBLEPTR/680_validPalindrome.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/02DOUBLEPTR/76_minWindow.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/03BSearch/154_findMin.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/03BSearch/34_searchRange.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/03BSearch/4_findMedianSortedArrays.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/03BSearch/540_singleNonDuplicate.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/03BSearch/69_Sqrt(x).cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/03BSearch/81_search.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/04Sort/215_findKthLargest.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/04Sort/347_topKFrequent.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/04Sort/451_frequencySort.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/04Sort/75_sortColors.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/04Sort/bubbleSort.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/04Sort/insertSort.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/04Sort/mergeSort.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/04Sort/quicksort.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/04Sort/selectionSort.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/05Search/126_wordLadder.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/05Search/130_surrounedArea.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/05Search/257_binaryTreePaths.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/05Search/417_pacificAtlantic.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/05Search/46_permute.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/05Search/51_nQueens.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/05Search/547_findCircleNum.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/05Search/695_maxAreaOfIsland.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/05Search/77_combine.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/05Search/79_wordSearch.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/05Search/934_shortestBridge.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/ListNode.h">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/main.cpp">
+			<Option target="LeetCode101"/>
+		</Unit>
+		<Unit filename="/Users/chenzheying/Documents/ClionProjects/LeetCode101/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

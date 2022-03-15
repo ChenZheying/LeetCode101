@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.19)
+project(LeetCode101)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(LeetCode101 main.cpp 01GREEDY/455_AssignCookies.cpp 01GREEDY/135_candy.cpp 01GREEDY/435_eraseOverlapIntervals.cpp 01GREEDY/605_canPlaceFlowers.cpp 01GREEDY/452_findMinArrowShots.cpp 01GREEDY/763_partitionLabels.cpp 01GREEDY/122_maxProfit.cpp 02DOUBLEPTR/142_detectCycle.cpp ListNode.h 02DOUBLEPTR/76_minWindow.cpp 02DOUBLEPTR/633_judgeSquareSum.cpp 02DOUBLEPTR/680_validPalindrome.cpp 02DOUBLEPTR/524_findLongestWord.cpp "03BSearch/69_Sqrt(x).cpp" 03BSearch/34_searchRange.cpp 03BSearch/81_search.cpp 03BSearch/540_singleNonDuplicate.cpp 03BSearch/154_findMin.cpp 03BSearch/4_findMedianSortedArrays.cpp 0215review.cpp 04Sort/quicksort.cpp 04Sort/quicksort.cpp 04Sort/mergeSort.cpp 04Sort/insertSort.cpp 04Sort/bubbleSort.cpp 04Sort/selectionSort.cpp 04Sort/215_findKthLargest.cpp 04Sort/347_topKFrequent.cpp 04Sort/451_frequencySort.cpp 04Sort/75_sortColors.cpp 05Search/695_maxAreaOfIsland.cpp 05Search/547_findCircleNum.cpp 05Search/417_pacificAtlantic.cpp 05Search/46_permute.cpp 05Search/77_combine.cpp 05Search/79_wordSearch.cpp 05Search/51_nQueens.cpp 05Search/934_shortestBridge.cpp 05Search/126_wordLadder.cpp 05Search/130_surrounedArea.cpp 05Search/257_binaryTreePaths.cpp)
